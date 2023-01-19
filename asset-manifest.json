@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.7b36c311.css",
+    "main.js": "/react-gh-pages/static/js/main.62e6a647.js",
+    "static/js/787.2723dfe0.chunk.js": "/react-gh-pages/static/js/787.2723dfe0.chunk.js",
+    "static/media/NeueMachina-Black.otf": "/react-gh-pages/static/media/NeueMachina-Black.76b36b2b3feffc7150fb.otf",
+    "static/media/NeueMachina-Bold.otf": "/react-gh-pages/static/media/NeueMachina-Bold.703b9d5c4ef6a381d1da.otf",
+    "static/media/NeueMachina-Regular.otf": "/react-gh-pages/static/media/NeueMachina-Regular.2724fbf8218c9415db2b.otf",
+    "static/media/NeueMachina-Medium.otf": "/react-gh-pages/static/media/NeueMachina-Medium.f70f49e14e4d8056e8d2.otf",
+    "static/media/NeueMachina-Ultrabold.otf": "/react-gh-pages/static/media/NeueMachina-Ultrabold.3c7f37bb366f92b864fb.otf",
+    "static/media/NeueMachina-Ultralight.otf": "/react-gh-pages/static/media/NeueMachina-Ultralight.d8dcf714f59c04ba90eb.otf",
+    "static/media/NeueMachina-Light.otf": "/react-gh-pages/static/media/NeueMachina-Light.e06f83c8754a8151c86b.otf",
+    "index.html": "/react-gh-pages/index.html",
+    "main.7b36c311.css.map": "/react-gh-pages/static/css/main.7b36c311.css.map",
+    "main.62e6a647.js.map": "/react-gh-pages/static/js/main.62e6a647.js.map",
+    "787.2723dfe0.chunk.js.map": "/react-gh-pages/static/js/787.2723dfe0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b36c311.css",
+    "static/js/main.62e6a647.js"
+  ]
+}
