@@ -49,14 +49,7 @@
 .nav {
   position: fixed;
 }
-.blogEntryLeft {
-  display: flex;
-  justify-content: flex-start;
-}
-.blogEntryRight {
-  display: flex;
-  justify-content: flex-end;
-}
+
 main {
   margin-left: 5rem;
   margin-right: 5rem;
