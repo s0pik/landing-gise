@@ -1,13 +1,40 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face {
+  font-family: "NeueMachina";
+  src: url("./Assets/Assets-fonts/NeueMachina-Black.otf") format("truetype");
+  font-weight: 900;
+}
+@font-face {
+  font-family: "NeueMachina";
+  src: url("./Assets/Assets-fonts/NeueMachina-Bold.otf") format("truetype");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "NeueMachina";
+  src: url("./Assets/Assets-fonts/NeueMachina-Light.otf") format("truetype");
+  font-weight: lighter;
+}
+@font-face {
+  font-family: "NeueMachina";
+  src: url("./Assets/Assets-fonts/NeueMachina-Medium.otf") format("truetype");
+  font-weight: medium;
+}
+@font-face {
+  font-family: "NeueMachina";
+  src: url("./Assets/Assets-fonts/NeueMachina-Regular.otf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "NeueMachina";
+  src: url("./Assets/Assets-fonts/NeueMachina-Ultrabold.otf") format("truetype");
+  font-weight: 800;
+}
+@font-face {
+  font-family: "NeueMachina";
+  src: url("./Assets/Assets-fonts/NeueMachina-Ultralight.otf")
+    format("truetype");
+  font-weight: 200;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+* {
+  font-family: "NeueMachina";
 }

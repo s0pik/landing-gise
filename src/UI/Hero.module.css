@@ -1,0 +1,10 @@
+.hero {
+  margin: 5rem auto;
+  width: 60rem;
+  height: 20rem;
+  display: flex;
+  align-items: center;
+  justify-content: space;
+  flex-direction: column;
+  margin-top: 15rem;
+}

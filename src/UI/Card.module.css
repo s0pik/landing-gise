@@ -1,0 +1,10 @@
+img {
+  width: 18rem;
+  height: 8rem;
+}
+.card {
+  display: flex;
+  width: 20rem;
+  height: 30rem;
+  flex-direction: column;
+}

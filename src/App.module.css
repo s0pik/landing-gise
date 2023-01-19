@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+.card {
+  display: flex;
+  flex-direction: row;
+  gap: 4rem;
+  margin: auto;
+  justify-content: center;
+}
+.body {
+  position: relative;
+}
+.nav {
+  position: fixed;
+}
+.blogEntryLeft {
+  display: flex;
+  justify-content: flex-start;
+}
+.blogEntryRight {
+  display: flex;
+  justify-content: flex-end;
+}
+main {
+  margin-left: 5rem;
+  margin-right: 5rem;
+}

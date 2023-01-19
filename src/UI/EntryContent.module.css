@@ -1,0 +1,12 @@
+.entry {
+  display: flex;
+  margin: 10rem auto;
+  /* margin-top: 10rem; */
+  width: 60rem;
+  flex-direction: column;
+  justify-content: center;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+}

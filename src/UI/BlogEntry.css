@@ -1,0 +1,21 @@
+.entry {
+  width: 100%;
+  height: auto;
+  /* margin-left: 5rem; */
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 5rem;
+}
+.left {
+  flex-direction: row-reverse;
+}
+.imageContainer {
+  width: 40%;
+}
+img {
+  height: 100%;
+  width: 100%;
+}
+.content {
+  width: 60%;
+}
