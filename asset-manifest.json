@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/landing-gise/static/css/main.c52249c1.css",
-    "main.js": "/landing-gise/static/js/main.1922cc9b.js",
+    "main.css": "/landing-gise/static/css/main.4d3bcc8c.css",
+    "main.js": "/landing-gise/static/js/main.2a72a99c.js",
     "static/js/787.2723dfe0.chunk.js": "/landing-gise/static/js/787.2723dfe0.chunk.js",
     "static/media/NeueMachina-Black.otf": "/landing-gise/static/media/NeueMachina-Black.76b36b2b3feffc7150fb.otf",
     "static/media/NeueMachina-Bold.otf": "/landing-gise/static/media/NeueMachina-Bold.703b9d5c4ef6a381d1da.otf",
@@ -11,12 +11,12 @@
     "static/media/NeueMachina-Ultralight.otf": "/landing-gise/static/media/NeueMachina-Ultralight.d8dcf714f59c04ba90eb.otf",
     "static/media/NeueMachina-Light.otf": "/landing-gise/static/media/NeueMachina-Light.e06f83c8754a8151c86b.otf",
     "index.html": "/landing-gise/index.html",
-    "main.c52249c1.css.map": "/landing-gise/static/css/main.c52249c1.css.map",
-    "main.1922cc9b.js.map": "/landing-gise/static/js/main.1922cc9b.js.map",
+    "main.4d3bcc8c.css.map": "/landing-gise/static/css/main.4d3bcc8c.css.map",
+    "main.2a72a99c.js.map": "/landing-gise/static/js/main.2a72a99c.js.map",
     "787.2723dfe0.chunk.js.map": "/landing-gise/static/js/787.2723dfe0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c52249c1.css",
-    "static/js/main.1922cc9b.js"
+    "static/css/main.4d3bcc8c.css",
+    "static/js/main.2a72a99c.js"
   ]
 }
